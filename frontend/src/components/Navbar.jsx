@@ -9,7 +9,8 @@ const Navbar = () => {
     <>
       <nav className={show ? "navbar show_navbar" : "navbar"}>
         <div className="logo">
-          <img src="/logo.png" alt="logo" />
+          <img src="/diya-logo.jpg" alt="Job Portal Logo" />
+
         </div>
         <div className="links">
           <ul>
